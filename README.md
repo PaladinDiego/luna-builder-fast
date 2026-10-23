@@ -1,7 +1,7 @@
 # Luna Builder Fast ⚡ (`luna-builder-fast`)
 
-[![Tests](https://github.com/usuario/luna-builder-fast/actions/workflows/ci.yml/badge.svg)](https://github.com)
-[![Antigravity](https://img.shields.io/badge/Google-Antigravity%20Plugin-blue.svg)](https://github.com)
+[![Tests](https://github.com/PaladinDiego/luna-builder-fast/actions/workflows/ci.yml/badge.svg)](https://github.com/PaladinDiego/luna-builder-fast)
+[![Antigravity](https://img.shields.io/badge/Google-Antigravity%20Plugin-blue.svg)](https://github.com/PaladinDiego/luna-builder-fast)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
 
@@ -66,14 +66,14 @@ Clona este repositorio y ejecuta el instalador correspondiente:
 
 **En Windows (PowerShell):**
 ```powershell
-git clone https://github.com/usuario/luna-builder-fast.git
+git clone https://github.com/PaladinDiego/luna-builder-fast.git
 cd luna-builder-fast
 powershell -ExecutionPolicy Bypass -File scripts/install.ps1
 ```
 
 **En Linux / macOS (Bash):**
 ```bash
-git clone https://github.com/usuario/luna-builder-fast.git
+git clone https://github.com/PaladinDiego/luna-builder-fast.git
 cd luna-builder-fast
 chmod +x scripts/install.sh
 ./scripts/install.sh
@@ -94,7 +94,7 @@ python scripts/install.py --workspace /ruta/a/tu/proyecto
 ### Opción C: Clon Directo en la Configuración Global de Antigravity
 
 ```bash
-git clone https://github.com/usuario/luna-builder-fast.git ~/.gemini/config/plugins/luna-builder-fast
+git clone https://github.com/PaladinDiego/luna-builder-fast.git ~/.gemini/config/plugins/luna-builder-fast
 ```
 
 > **Nota**: Tras instalar como plugin global por primera vez, reinicia Google Antigravity para que indexe el nuevo plugin.

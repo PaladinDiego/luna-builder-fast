@@ -1,0 +1,11 @@
+{
+  "name": "luna-builder-fast",
+  "displayName": "Luna Builder Fast",
+  "description": "Variante de ultra-velocidad de Luna Builder enfocada en minimizar el TTVD (Time to Verified Delivery) mediante bypass de burocracia, ejecución determinista, parches mínimos y concurrencia.",
+  "version": "1.0.0",
+  "suggestedPrompts": [
+    "Ejecuta esta tarea con luna fast",
+    "Aplica este cambio en modo express",
+    "Ejecuta estas tareas independientes en fan-out con luna fast"
+  ]
+}

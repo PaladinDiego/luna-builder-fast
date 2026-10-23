@@ -1,0 +1,17 @@
+{
+  "luna-fast-guard": {
+    "enabled": true,
+    "PreToolUse": [
+      {
+        "matcher": "write_file|edit_file",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python skills/luna-builder-fast/scripts/hook_pretool.py",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}
